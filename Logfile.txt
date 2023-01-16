@@ -1,0 +1,70 @@
+дек. 12, 2022 10:04:50 AM Factory.Dealer lambda$run$0
+FINE: Mon Dec 12 10:04:50 MSK 2022: Dealer 22 : Auto 1 (Body: 0 , Motor: 1 , Accessory: 2)
+дек. 12, 2022 10:04:50 AM Factory.Dealer lambda$run$0
+FINE: Mon Dec 12 10:04:50 MSK 2022: Dealer 23 : Auto 2 (Body: 4 , Motor: 3 , Accessory: 5)
+дек. 12, 2022 10:04:52 AM Factory.Dealer lambda$run$0
+FINE: Mon Dec 12 10:04:52 MSK 2022: Dealer 23 : Auto 3 (Body: 7 , Motor: 8 , Accessory: 6)
+дек. 12, 2022 10:04:57 AM Factory.Dealer lambda$run$0
+FINE: Mon Dec 12 10:04:57 MSK 2022: Dealer 22 : Auto 4 (Body: 9 , Motor: 10 , Accessory: 11)
+дек. 12, 2022 10:04:58 AM Factory.Dealer lambda$run$0
+FINE: Mon Dec 12 10:04:58 MSK 2022: Dealer 23 : Auto 5 (Body: 12 , Motor: 13 , Accessory: 14)
+дек. 12, 2022 10:04:59 AM Factory.Dealer lambda$run$0
+FINE: Mon Dec 12 10:04:59 MSK 2022: Dealer 22 : Auto 6 (Body: 17 , Motor: 15 , Accessory: 16)
+дек. 12, 2022 10:05:07 AM Factory.Dealer lambda$run$0
+FINE: Mon Dec 12 10:05:07 MSK 2022: Dealer 23 : Auto 7 (Body: 20 , Motor: 18 , Accessory: 19)
+дек. 12, 2022 10:05:08 AM Factory.Dealer lambda$run$0
+FINE: Mon Dec 12 10:05:08 MSK 2022: Dealer 22 : Auto 8 (Body: 21 , Motor: 23 , Accessory: 22)
+дек. 12, 2022 10:05:11 AM Factory.Dealer lambda$run$0
+FINE: Mon Dec 12 10:05:11 MSK 2022: Dealer 23 : Auto 9 (Body: 26 , Motor: 25 , Accessory: 24)
+дек. 12, 2022 10:05:12 AM Factory.Dealer lambda$run$0
+FINE: Mon Dec 12 10:05:12 MSK 2022: Dealer 22 : Auto 10 (Body: 28 , Motor: 29 , Accessory: 27)
+дек. 12, 2022 10:05:15 AM Factory.Dealer lambda$run$0
+FINE: Mon Dec 12 10:05:15 MSK 2022: Dealer 23 : Auto 11 (Body: 30 , Motor: 31 , Accessory: 32)
+дек. 12, 2022 10:05:16 AM Factory.Dealer lambda$run$0
+FINE: Mon Dec 12 10:05:16 MSK 2022: Dealer 22 : Auto 12 (Body: 35 , Motor: 33 , Accessory: 34)
+дек. 12, 2022 10:05:19 AM Factory.Dealer lambda$run$0
+FINE: Mon Dec 12 10:05:19 MSK 2022: Dealer 23 : Auto 13 (Body: 37 , Motor: 36 , Accessory: 38)
+дек. 12, 2022 10:05:20 AM Factory.Dealer lambda$run$0
+FINE: Mon Dec 12 10:05:20 MSK 2022: Dealer 22 : Auto 14 (Body: 39 , Motor: 41 , Accessory: 40)
+дек. 12, 2022 10:05:23 AM Factory.Dealer lambda$run$0
+FINE: Mon Dec 12 10:05:23 MSK 2022: Dealer 23 : Auto 15 (Body: 43 , Motor: 44 , Accessory: 42)
+дек. 12, 2022 10:05:24 AM Factory.Dealer lambda$run$0
+FINE: Mon Dec 12 10:05:24 MSK 2022: Dealer 22 : Auto 16 (Body: 47 , Motor: 46 , Accessory: 45)
+дек. 12, 2022 10:05:27 AM Factory.Dealer lambda$run$0
+FINE: Mon Dec 12 10:05:27 MSK 2022: Dealer 23 : Auto 17 (Body: 48 , Motor: 50 , Accessory: 49)
+дек. 12, 2022 10:05:28 AM Factory.Dealer lambda$run$0
+FINE: Mon Dec 12 10:05:28 MSK 2022: Dealer 22 : Auto 18 (Body: 53 , Motor: 51 , Accessory: 52)
+дек. 12, 2022 10:05:31 AM Factory.Dealer lambda$run$0
+FINE: Mon Dec 12 10:05:31 MSK 2022: Dealer 23 : Auto 19 (Body: 56 , Motor: 55 , Accessory: 54)
+дек. 12, 2022 10:05:32 AM Factory.Dealer lambda$run$0
+FINE: Mon Dec 12 10:05:32 MSK 2022: Dealer 22 : Auto 20 (Body: 57 , Motor: 58 , Accessory: 59)
+дек. 12, 2022 10:05:35 AM Factory.Dealer lambda$run$0
+FINE: Mon Dec 12 10:05:35 MSK 2022: Dealer 23 : Auto 21 (Body: 62 , Motor: 61 , Accessory: 60)
+дек. 12, 2022 10:05:36 AM Factory.Dealer lambda$run$0
+FINE: Mon Dec 12 10:05:36 MSK 2022: Dealer 22 : Auto 22 (Body: 64 , Motor: 65 , Accessory: 63)
+дек. 12, 2022 10:05:39 AM Factory.Dealer lambda$run$0
+FINE: Mon Dec 12 10:05:39 MSK 2022: Dealer 23 : Auto 23 (Body: 67 , Motor: 66 , Accessory: 72)
+дек. 12, 2022 10:05:40 AM Factory.Dealer lambda$run$0
+FINE: Mon Dec 12 10:05:40 MSK 2022: Dealer 22 : Auto 24 (Body: 68 , Motor: 69 , Accessory: 76)
+дек. 12, 2022 10:05:43 AM Factory.Dealer lambda$run$0
+FINE: Mon Dec 12 10:05:43 MSK 2022: Dealer 23 : Auto 25 (Body: 71 , Motor: 70 , Accessory: 77)
+дек. 12, 2022 10:05:44 AM Factory.Dealer lambda$run$0
+FINE: Mon Dec 12 10:05:44 MSK 2022: Dealer 22 : Auto 26 (Body: 73 , Motor: 75 , Accessory: 80)
+дек. 12, 2022 10:05:47 AM Factory.Dealer lambda$run$0
+FINE: Mon Dec 12 10:05:47 MSK 2022: Dealer 23 : Auto 27 (Body: 74 , Motor: 78 , Accessory: 84)
+дек. 12, 2022 10:05:48 AM Factory.Dealer lambda$run$0
+FINE: Mon Dec 12 10:05:48 MSK 2022: Dealer 22 : Auto 28 (Body: 79 , Motor: 81 , Accessory: 87)
+дек. 12, 2022 10:05:51 AM Factory.Dealer lambda$run$0
+FINE: Mon Dec 12 10:05:51 MSK 2022: Dealer 23 : Auto 29 (Body: 88 , Motor: 89 , Accessory: 90)
+дек. 12, 2022 10:05:52 AM Factory.Dealer lambda$run$0
+FINE: Mon Dec 12 10:05:52 MSK 2022: Dealer 22 : Auto 30 (Body: 82 , Motor: 83 , Accessory: 93)
+дек. 12, 2022 10:05:56 AM Factory.Dealer lambda$run$0
+FINE: Mon Dec 12 10:05:56 MSK 2022: Dealer 23 : Auto 31 (Body: 91 , Motor: 92 , Accessory: 96)
+дек. 12, 2022 10:06:01 AM Factory.Dealer lambda$run$0
+FINE: Mon Dec 12 10:06:01 MSK 2022: Dealer 22 : Auto 32 (Body: 94 , Motor: 95 , Accessory: 97)
+дек. 12, 2022 10:06:06 AM Factory.Dealer lambda$run$0
+FINE: Mon Dec 12 10:06:06 MSK 2022: Dealer 23 : Auto 33 (Body: 85 , Motor: 86 , Accessory: 101)
+дек. 12, 2022 10:06:11 AM Factory.Dealer lambda$run$0
+FINE: Mon Dec 12 10:06:11 MSK 2022: Dealer 22 : Auto 34 (Body: 99 , Motor: 98 , Accessory: 104)
+дек. 12, 2022 10:06:16 AM Factory.Dealer lambda$run$0
+FINE: Mon Dec 12 10:06:16 MSK 2022: Dealer 23 : Auto 35 (Body: 102 , Motor: 100 , Accessory: 106)
